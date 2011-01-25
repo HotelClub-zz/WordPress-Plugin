@@ -1,0 +1,22 @@
+HotelClub WordPress Plugin
+
+HotelClub WordPress Plugin provides a variety of widgets to search and display hotels.
+
+INSTALLATION
+------------
+
+1. Upload "hotelclub" to the "/wp-content/plugins/" directory
+2. Activate the plugin through the "Plugins" menu in WordPress
+3. Go to "Appearance > Widgets" to configure your widgets
+
+HOTELCLUB AND RATESTOGO AFFILIATE PROGRAMME
+---------------
+
+Not a HotelClub Affiliate yet? Join the HotelClub affiliate programme at
+http://affiliates.hotelclub.com/WordPress/signup
+
+LICENSE
+-------
+
+The files in this archive are released under the new BSD license. You can find a
+copy of this license in LICENSE.

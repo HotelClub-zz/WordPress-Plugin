@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: forms/HotelList.php:28
+#: forms/HotelSearch.php:28
+#: forms/MonthlyFavouriteCityList.php:28
+#: forms/TopCityList.php:28
+#@ hotelclub
+msgid "Title"
+msgstr "제목"
+
+#: forms/HotelList.php:40
+#: forms/options.php:76
+#: themes/default/HotelSearch.php:44
+#@ hotelclub
+msgid "City"
+msgstr "시"
+
+#: forms/HotelList.php:48
+#@ hotelclub
+msgid "Number of hotels to show"
+msgstr "호텔 개수 표시"
+
+#: forms/options.php:33
+#: hotelclub.php:168
+#@ hotelclub
+msgid "HotelClub Settings"
+msgstr "HotelClub 설정"
+
+#: forms/options.php:41
+#@ hotelclub
+msgid "Affiliate ID"
+msgstr "제휴 아이디"
+
+#: forms/options.php:44
+#@ hotelclub
+msgid "Enter your HotelClub Affiliate ID"
+msgstr "당신의 HotelClub 제휴 ID를 입력하십시오"
+
+#: forms/options.php:48
+#@ hotelclub
+msgid "Affiliate Password"
+msgstr "제휴 비밀 번호"
+
+#: forms/options.php:51
+#@ hotelclub
+msgid "Enter your HotelClub Affiliate Password"
+msgstr "당신의 HotelClub 제휴 비밀 번호를 입력"
+
+#: forms/options.php:56
+#@ hotelclub
+msgid "Not a HotelClub Affiliate?"
+msgstr "아니 HotelClub 제휴?"
+
+#: forms/options.php:56
+#@ hotelclub
+msgid "Join now for FREE!"
+msgstr "지금 무료로 가입하세요!"
+
+#: forms/options.php:90
+#@ hotelclub
+msgid "Language"
+msgstr "언어"
+
+#: forms/options.php:110
+#@ hotelclub
+msgid "Choose your default language"
+msgstr "기본 언어를 선택"
+
+#: forms/options.php:114
+#@ hotelclub
+msgid "Currency"
+msgstr "통화"
+
+#: forms/options.php:138
+#@ hotelclub
+msgid "Choose your default currency"
+msgstr "기본 통화 선택"
+
+#: forms/options.php:142
+#@ hotelclub
+msgid "HotelClub Site Address (URL)"
+msgstr "HotelClub 사이트 주소 (URL)"
+
+#: forms/options.php:171
+#@ hotelclub
+msgid "Theme"
+msgstr "테마"
+
+#: forms/options.php:201
+#@ default
+msgid "Save Changes"
+msgstr ""
+
+#: hotelclub.php:339
+#@ hotelclub
+msgid "You do not have sufficient permissions to access this page."
+msgstr "당신은이 페이지에 액세스할 수있는 권한이 없습니다."
+
+#: widgets/TopCityList.php:35
+#@ hotelclub
+msgid "Display a list of links to top cities"
+msgstr "디스플레이 가기 도시로 링크 목록"
+
+#: forms/HotelList.php:32
+#: forms/options.php:62
+#: themes/default/HotelSearch.php:36
+#@ hotelclub
+msgid "Country"
+msgstr "국가"
+
+#: forms/options.php:72
+#@ hotelclub
+msgid "Choose your default country"
+msgstr "기본 국가를 선택하십시오"
+
+#: forms/options.php:86
+#@ hotelclub
+msgid "Choose your default city"
+msgstr "기본 도시를 선택하세요"
+
+#: themes/default/HotelSearch.php:52
+#@ hotelclub
+msgid "Check in"
+msgstr "체크인"
+
+#: themes/default/HotelSearch.php:56
+#@ hotelclub
+msgid "Check out"
+msgstr "체크 아웃"
+
+#: widgets/HotelSearch.php:35
+#@ hotelclub
+msgid "HotelClub Hotel Search"
+msgstr "HotelClub 호텔 검색"
+
+#: widgets/HotelList.php:35
+#@ hotelclub
+msgid "HotelClub Hotel List"
+msgstr "HotelClub 호텔리스트"
+
+#: widgets/HotelList.php:35
+#@ hotelclub
+msgid "Display a list of hotels complete with thumbnail images and star ratings"
+msgstr "호텔 축소판 이미지와 스타 등급 완성의 표시 목록"
+
+#: widgets/HotelSearch.php:35
+#@ hotelclub
+msgid "Display a hotel search form"
+msgstr "디스플레이 호텔 검색 양식"
+
+#: widgets/MonthlyFavouriteCityList.php:35
+#@ hotelclub
+msgid "HotelClub Monthly Favourite City List"
+msgstr "HotelClub 월간 좋아하는 도시리스트"
+
+#: widgets/MonthlyFavouriteCityList.php:35
+#@ hotelclub
+msgid "Display a list of links to monthly favourite cities"
+msgstr "디스플레이 월별 좋아하는 도시로 링크 목록"
+
+#: widgets/TopCityList.php:35
+#@ hotelclub
+msgid "HotelClub Top City List"
+msgstr "HotelClub 상위 도시리스트"
+
+#: forms/options.php:182
+#@ hotelclub
+msgid "You can create your own theme in <code>wp-content/plugins/hotelclub/themes</code>"
+msgstr "당신의 테마를 만들 자신 있습니다 <code>wp-content/plugins/hotelclub/themes</code>"
+
+#: hotelclub.php:352
+#@ hotelclub
+msgid "Settings"
+msgstr "설정"
+
+#: forms/options.php:38
+#@ hotelclub
+msgid "Affiliate Details"
+msgstr "제휴사 상세 정보"
+
+#: forms/options.php:59
+#@ hotelclub
+msgid "General Settings"
+msgstr "일반 설정"
+
+#: forms/options.php:186
+#@ hotelclub
+msgid "Cache"
+msgstr "캐시"
+
+#: forms/options.php:190
+#@ hotelclub
+msgid "1 hour"
+msgstr "1시간"
+
+#: forms/options.php:191
+#@ hotelclub
+msgid "1 day"
+msgstr "일일"
+
+#: forms/options.php:192
+#@ hotelclub
+msgid "1 week"
+msgstr "일주"
+
+#: forms/options.php:193
+#@ hotelclub
+msgid "1 month"
+msgstr "일개월"
+
+#: forms/options.php:195
+#@ hotelclub
+msgid "How long should data be cached?"
+msgstr "얼마나 데이터가 캐시되어야하는가?"
+
+#: forms/options.php:196
+#@ default
+msgid "Clear Cache"
+msgstr ""
+
+#: forms/options.php:160
+#@ hotelclub
+msgid "Connection Protocol"
+msgstr "접속 프로토콜"
+
+#: forms/options.php:164
+#@ hotelclub
+msgid "Less secure but faster"
+msgstr "덜 안전한하지만 빠르게"
+
+#: forms/options.php:165
+#@ hotelclub
+msgid "More secure but slower"
+msgstr "보다 안전하지만 속도가 느린"
+
+#: forms/options.php:167
+#@ hotelclub
+msgid "Use <code>HTTP</code> if you are having problems with <code>HTTPS</code>"
+msgstr "를 사용하여 <code>HTTP</code> 함께하는 경우 문제가 발생하는 당신은 <code>HTTPS</code>"
+
+#: hotelclub.php:181
+#@ hotelclub
+msgid "Cache cleared"
+msgstr "캐시 삭제"
+
+#: forms/options.php:156
+#@ hotelclub
+msgid "Choose your default HotelClub site address"
+msgstr "기본 HotelClub 사이트 주소를 선택하십시오"
+

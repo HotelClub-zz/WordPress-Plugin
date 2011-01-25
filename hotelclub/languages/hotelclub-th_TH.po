@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: forms/HotelList.php:28
+#: forms/HotelSearch.php:28
+#: forms/MonthlyFavouriteCityList.php:28
+#: forms/TopCityList.php:28
+#@ hotelclub
+msgid "Title"
+msgstr "ชื่อเรื่อง"
+
+#: forms/HotelList.php:40
+#: forms/options.php:76
+#: themes/default/HotelSearch.php:44
+#@ hotelclub
+msgid "City"
+msgstr "เมือง"
+
+#: forms/HotelList.php:48
+#@ hotelclub
+msgid "Number of hotels to show"
+msgstr "จำนวนโรงแรมที่จะแสดง"
+
+#: forms/options.php:33
+#: hotelclub.php:168
+#@ hotelclub
+msgid "HotelClub Settings"
+msgstr "การตั้งค่า HotelClub"
+
+#: forms/options.php:41
+#@ hotelclub
+msgid "Affiliate ID"
+msgstr "Affiliate ID"
+
+#: forms/options.php:44
+#@ hotelclub
+msgid "Enter your HotelClub Affiliate ID"
+msgstr "HotelClub Affiliate ใส่ ID ของคุณ"
+
+#: forms/options.php:48
+#@ hotelclub
+msgid "Affiliate Password"
+msgstr "รหัสผ่านตัวแทนการขาย"
+
+#: forms/options.php:51
+#@ hotelclub
+msgid "Enter your HotelClub Affiliate Password"
+msgstr "HotelClub Affiliate ใส่รหัสผ่านของคุณ"
+
+#: forms/options.php:56
+#@ hotelclub
+msgid "Not a HotelClub Affiliate?"
+msgstr "ไม่ Affiliate HotelClub?"
+
+#: forms/options.php:56
+#@ hotelclub
+msgid "Join now for FREE!"
+msgstr "สมัครสมาชิกฟรี!"
+
+#: forms/options.php:90
+#@ hotelclub
+msgid "Language"
+msgstr "ภาษา"
+
+#: forms/options.php:110
+#@ hotelclub
+msgid "Choose your default language"
+msgstr "เลือกภาษาเริ่มต้นของคุณ"
+
+#: forms/options.php:114
+#@ hotelclub
+msgid "Currency"
+msgstr "เงินตรา"
+
+#: forms/options.php:138
+#@ hotelclub
+msgid "Choose your default currency"
+msgstr "เลือกสกุลเงินเริ่มต้นของคุณ"
+
+#: forms/options.php:142
+#@ hotelclub
+msgid "HotelClub Site Address (URL)"
+msgstr "ที่อยู่เว็บไซต์ HotelClub (URL)"
+
+#: forms/options.php:171
+#@ hotelclub
+msgid "Theme"
+msgstr "Theme"
+
+#: forms/options.php:201
+#@ default
+msgid "Save Changes"
+msgstr ""
+
+#: hotelclub.php:339
+#@ hotelclub
+msgid "You do not have sufficient permissions to access this page."
+msgstr "คุณไม่ได้รับสิทธิ์ที่จะเข้าถึงหน้านี้"
+
+#: widgets/TopCityList.php:35
+#@ hotelclub
+msgid "Display a list of links to top cities"
+msgstr "แสดงรายการของการเชื่อมโยงไปยังเมืองด้านบน"
+
+#: forms/HotelList.php:32
+#: forms/options.php:62
+#: themes/default/HotelSearch.php:36
+#@ hotelclub
+msgid "Country"
+msgstr "ประเทศ"
+
+#: forms/options.php:72
+#@ hotelclub
+msgid "Choose your default country"
+msgstr "เลือกประเทศเริ่มต้นของคุณ"
+
+#: forms/options.php:86
+#@ hotelclub
+msgid "Choose your default city"
+msgstr "เลือกเมืองเริ่มต้นของคุณ"
+
+#: themes/default/HotelSearch.php:52
+#@ hotelclub
+msgid "Check in"
+msgstr "ตรวจสอบใน"
+
+#: themes/default/HotelSearch.php:56
+#@ hotelclub
+msgid "Check out"
+msgstr "เช็คเอาท์"
+
+#: widgets/HotelSearch.php:35
+#@ hotelclub
+msgid "HotelClub Hotel Search"
+msgstr "ค้นหา Hotel HotelClub"
+
+#: widgets/HotelList.php:35
+#@ hotelclub
+msgid "HotelClub Hotel List"
+msgstr "รายชื่อโรงแรม HotelClub"
+
+#: widgets/HotelList.php:35
+#@ hotelclub
+msgid "Display a list of hotels complete with thumbnail images and star ratings"
+msgstr "แสดงรายชื่อโรงแรมทั้งหมดที่มีรูปภาพขนาดเล็กและการจัดอันดับดาว"
+
+#: widgets/HotelSearch.php:35
+#@ hotelclub
+msgid "Display a hotel search form"
+msgstr "จอแสดงผลแบบฟอร์มการค้นหาโรงแรม"
+
+#: widgets/MonthlyFavouriteCityList.php:35
+#@ hotelclub
+msgid "HotelClub Monthly Favourite City List"
+msgstr "HotelClub ที่ชื่นชอบรายการเมืองรายเดือน"
+
+#: widgets/MonthlyFavouriteCityList.php:35
+#@ hotelclub
+msgid "Display a list of links to monthly favourite cities"
+msgstr "แสดงรายการของการเชื่อมโยงไปยังเมืองที่ชื่นชอบรายเดือน"
+
+#: widgets/TopCityList.php:35
+#@ hotelclub
+msgid "HotelClub Top City List"
+msgstr "รายชื่อเมือง HotelClub Top"
+
+#: forms/options.php:182
+#@ hotelclub
+msgid "You can create your own theme in <code>wp-content/plugins/hotelclub/themes</code>"
+msgstr "คุณสามารถสร้างชุดรูปแบบของคุณเองใน <code>wp-content/plugins/hotelclub/themes</code>"
+
+#: hotelclub.php:352
+#@ hotelclub
+msgid "Settings"
+msgstr "การตั้งค่า"
+
+#: forms/options.php:38
+#@ hotelclub
+msgid "Affiliate Details"
+msgstr "รายละเอียดตัวแทนการขาย"
+
+#: forms/options.php:59
+#@ hotelclub
+msgid "General Settings"
+msgstr "การตั้งค่าทั่วไป"
+
+#: forms/options.php:186
+#@ hotelclub
+msgid "Cache"
+msgstr "# ที่เก็บของ"
+
+#: forms/options.php:190
+#@ hotelclub
+msgid "1 hour"
+msgstr "1 ชั่วโมง"
+
+#: forms/options.php:191
+#@ hotelclub
+msgid "1 day"
+msgstr "1 วัน"
+
+#: forms/options.php:192
+#@ hotelclub
+msgid "1 week"
+msgstr "1 สัปดาห์"
+
+#: forms/options.php:193
+#@ hotelclub
+msgid "1 month"
+msgstr "1 เดือน"
+
+#: forms/options.php:195
+#@ hotelclub
+msgid "How long should data be cached?"
+msgstr "ข้อมูลควรเก็บไว้นานแค่ไหน?"
+
+#: forms/options.php:196
+#@ default
+msgid "Clear Cache"
+msgstr ""
+
+#: forms/options.php:160
+#@ hotelclub
+msgid "Connection Protocol"
+msgstr "Protocol การเชื่อมต่อ"
+
+#: forms/options.php:164
+#@ hotelclub
+msgid "Less secure but faster"
+msgstr "ความปลอดภัยน้อย แต่ได้เร็วขึ้น"
+
+#: forms/options.php:165
+#@ hotelclub
+msgid "More secure but slower"
+msgstr "ปลอดภัยมากขึ้น แต่ช้าลง"
+
+#: forms/options.php:167
+#@ hotelclub
+msgid "Use <code>HTTP</code> if you are having problems with <code>HTTPS</code>"
+msgstr "ใช้ <code>HTTP</code> ถ้าคุณมีปัญหากับ <code>HTTPS</code>"
+
+#: hotelclub.php:181
+#@ hotelclub
+msgid "Cache cleared"
+msgstr "ล้างแคช"
+
+#: forms/options.php:156
+#@ hotelclub
+msgid "Choose your default HotelClub site address"
+msgstr "เลือกเริ่มต้นที่อยู่ของคุณเว็บไซต์ HotelClub"
+

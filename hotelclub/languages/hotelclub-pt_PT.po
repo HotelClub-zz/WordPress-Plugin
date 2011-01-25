@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: forms/HotelList.php:28
+#: forms/HotelSearch.php:28
+#: forms/MonthlyFavouriteCityList.php:28
+#: forms/TopCityList.php:28
+#@ hotelclub
+msgid "Title"
+msgstr "Título"
+
+#: forms/HotelList.php:40
+#: forms/options.php:76
+#: themes/default/HotelSearch.php:44
+#@ hotelclub
+msgid "City"
+msgstr "Cidade"
+
+#: forms/HotelList.php:48
+#@ hotelclub
+msgid "Number of hotels to show"
+msgstr "Número de hotéis para mostrar"
+
+#: forms/options.php:33
+#: hotelclub.php:168
+#@ hotelclub
+msgid "HotelClub Settings"
+msgstr "HotelClub Configurações"
+
+#: forms/options.php:41
+#@ hotelclub
+msgid "Affiliate ID"
+msgstr "Affiliate ID"
+
+#: forms/options.php:44
+#@ hotelclub
+msgid "Enter your HotelClub Affiliate ID"
+msgstr "Digite seu HotelClub ID afiliado"
+
+#: forms/options.php:48
+#@ hotelclub
+msgid "Affiliate Password"
+msgstr "Afiliada da senha"
+
+#: forms/options.php:51
+#@ hotelclub
+msgid "Enter your HotelClub Affiliate Password"
+msgstr "Digite sua senha HotelClub afiliado"
+
+#: forms/options.php:56
+#@ hotelclub
+msgid "Not a HotelClub Affiliate?"
+msgstr "Não é uma filial HotelClub?"
+
+#: forms/options.php:56
+#@ hotelclub
+msgid "Join now for FREE!"
+msgstr "Cadastre-se agora para LIVRE!"
+
+#: forms/options.php:90
+#@ hotelclub
+msgid "Language"
+msgstr "Idioma"
+
+#: forms/options.php:110
+#@ hotelclub
+msgid "Choose your default language"
+msgstr "Escolha o seu idioma padrão"
+
+#: forms/options.php:114
+#@ hotelclub
+msgid "Currency"
+msgstr "Moeda"
+
+#: forms/options.php:138
+#@ hotelclub
+msgid "Choose your default currency"
+msgstr "Escolha a sua moeda padrão"
+
+#: forms/options.php:142
+#@ hotelclub
+msgid "HotelClub Site Address (URL)"
+msgstr "HotelClub endereço do site (URL)"
+
+#: forms/options.php:171
+#@ hotelclub
+msgid "Theme"
+msgstr "Tema"
+
+#: forms/options.php:201
+#@ default
+msgid "Save Changes"
+msgstr ""
+
+#: hotelclub.php:339
+#@ hotelclub
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Você não tem permissões suficientes para acessar essa página."
+
+#: widgets/TopCityList.php:35
+#@ hotelclub
+msgid "Display a list of links to top cities"
+msgstr "Apresentar uma lista de links para as principais cidades"
+
+#: forms/HotelList.php:32
+#: forms/options.php:62
+#: themes/default/HotelSearch.php:36
+#@ hotelclub
+msgid "Country"
+msgstr "País"
+
+#: forms/options.php:72
+#@ hotelclub
+msgid "Choose your default country"
+msgstr "Escolha o seu país padrão"
+
+#: forms/options.php:86
+#@ hotelclub
+msgid "Choose your default city"
+msgstr "Escolha a sua cidade padrão"
+
+#: themes/default/HotelSearch.php:52
+#@ hotelclub
+msgid "Check in"
+msgstr "Entrada"
+
+#: themes/default/HotelSearch.php:56
+#@ hotelclub
+msgid "Check out"
+msgstr "Confira"
+
+#: widgets/HotelSearch.php:35
+#@ hotelclub
+msgid "HotelClub Hotel Search"
+msgstr "HotelClub Pesquisa de hotéis"
+
+#: widgets/HotelList.php:35
+#@ hotelclub
+msgid "HotelClub Hotel List"
+msgstr "HotelClub Lista Hotel"
+
+#: widgets/HotelList.php:35
+#@ hotelclub
+msgid "Display a list of hotels complete with thumbnail images and star ratings"
+msgstr "Apresentar uma lista completa de hotéis com imagens em miniatura e classificação por estrelas"
+
+#: widgets/HotelSearch.php:35
+#@ hotelclub
+msgid "Display a hotel search form"
+msgstr "Exibir um formulário de busca de hotéis"
+
+#: widgets/MonthlyFavouriteCityList.php:35
+#@ hotelclub
+msgid "HotelClub Monthly Favourite City List"
+msgstr "HotelClub Lista Mensal Cidade Favourite"
+
+#: widgets/MonthlyFavouriteCityList.php:35
+#@ hotelclub
+msgid "Display a list of links to monthly favourite cities"
+msgstr "Apresentar uma lista de links para as cidades favoritas mensal"
+
+#: widgets/TopCityList.php:35
+#@ hotelclub
+msgid "HotelClub Top City List"
+msgstr "HotelClub Lista da Cidade Topo"
+
+#: forms/options.php:182
+#@ hotelclub
+msgid "You can create your own theme in <code>wp-content/plugins/hotelclub/themes</code>"
+msgstr "Você pode criar o seu próprio tema no <code>wp-content/plugins/hotelclub/themes</code>"
+
+#: hotelclub.php:352
+#@ hotelclub
+msgid "Settings"
+msgstr "Configurações"
+
+#: forms/options.php:38
+#@ hotelclub
+msgid "Affiliate Details"
+msgstr "Detalhes da filial"
+
+#: forms/options.php:59
+#@ hotelclub
+msgid "General Settings"
+msgstr "Definições Gerais"
+
+#: forms/options.php:186
+#@ hotelclub
+msgid "Cache"
+msgstr "Cache"
+
+#: forms/options.php:190
+#@ hotelclub
+msgid "1 hour"
+msgstr "Uma hora"
+
+#: forms/options.php:191
+#@ hotelclub
+msgid "1 day"
+msgstr "1 dia"
+
+#: forms/options.php:192
+#@ hotelclub
+msgid "1 week"
+msgstr "1 semana"
+
+#: forms/options.php:193
+#@ hotelclub
+msgid "1 month"
+msgstr "1 mês"
+
+#: forms/options.php:195
+#@ hotelclub
+msgid "How long should data be cached?"
+msgstr "Quanto tempo os dados devem ser armazenados em cache?"
+
+#: forms/options.php:196
+#@ default
+msgid "Clear Cache"
+msgstr ""
+
+#: forms/options.php:160
+#@ hotelclub
+msgid "Connection Protocol"
+msgstr "Conexão Protocolo"
+
+#: forms/options.php:164
+#@ hotelclub
+msgid "Less secure but faster"
+msgstr "Mas menos seguro, mais rápido"
+
+#: forms/options.php:165
+#@ hotelclub
+msgid "More secure but slower"
+msgstr "Mais seguro, mas lento"
+
+#: forms/options.php:167
+#@ hotelclub
+msgid "Use <code>HTTP</code> if you are having problems with <code>HTTPS</code>"
+msgstr "Usar <code>HTTP</code> se você está tendo problemas com <code>HTTPS</code>"
+
+#: hotelclub.php:181
+#@ hotelclub
+msgid "Cache cleared"
+msgstr "Cache limpo"
+
+#: forms/options.php:156
+#@ hotelclub
+msgid "Choose your default HotelClub site address"
+msgstr "Escolha o seu padrão endereço do site HotelClub"
+

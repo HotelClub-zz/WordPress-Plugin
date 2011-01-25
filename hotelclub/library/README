@@ -1,0 +1,47 @@
+HotelClub XML Web Services for PHP
+
+A PHP library for interfacing with HotelClub XML Web Services
+
+SYSTEM REQUIREMENTS
+-------------------
+
+HotelClub XML Web Services for PHP requires PHP 5.2.4 or later.
+
+INSTALLATION
+------------
+
+HotelClub requires no special installation steps. Simply open config.php and
+update the $config['AffiliateID'] and $config['Password'] values to
+those of your own Affiliate ID and Affiliate Password respectively.
+
+Note: All configuration options can also be directly set at runtime. For example:
+
+require_once 'path/to/HotelClub.php';
+$hotelClub = new HotelClub();
+$hotelClub->config['AffiliateID'] = 12345;
+$hotelClub->config['Password'] = 'mysecretpassword';
+
+HOTELCLUB AND RATESTOGO AFFILIATE PROGRAMME
+---------------
+
+Not a HotelClub Affiliate yet? Join the HotelClub affiliate programme at
+https://affiliates.hotelclub.com/
+
+USAGE
+---------------
+
+The following example shows how to get a list of Top Cities from the Content web service.
+
+require_once 'path/to/HotelClub.php';
+$hotelClub = new HotelClub();
+$params = array(
+    'LanguageCode' => 'EN',
+    'CurrencyCode' => 'AUD'
+);
+$topCities = $hotelClub->TopCityListRequest($params);
+
+LICENSE
+-------
+
+The files in this archive are released under the new BSD license. You can find a
+copy of this license in LICENSE.
