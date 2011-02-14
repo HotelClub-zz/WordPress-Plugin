@@ -53,7 +53,7 @@ global $wpdb;
             </tr>
             <tr valign="top">
                 <th scope="row">&nbsp;</th>
-                <td><p><?php _e('Not a HotelClub Affiliate?', 'hotelclub'); ?> <a href="http://affiliates.hotelclub.com/WordPress/signup" target="_blank"><?php _e('Join now for FREE!', 'hotelclub'); ?></a></p></td>
+                <td><p><?php _e('Not a HotelClub Affiliate?', 'hotelclub'); ?> <a href="https://affiliates.hotelclub.com/WordPress/signup" target="_blank"><?php _e('Join now for FREE!', 'hotelclub'); ?></a></p></td>
             </tr>
         </table>
         <h3><?php _e('General Settings', 'hotelclub'); ?></h3>
@@ -152,6 +152,8 @@ global $wpdb;
                         <option value="http://www.hotelclub.co.kr/"<?php echo ($option == 'http://www.hotelclub.co.kr/') ? ' selected="selected"' : ''; ?>>HotelClub.co.kr</option>
                         <option value="http://www.hotelclub.cn/"<?php echo ($option == 'http://www.hotelclub.cn/') ? ' selected="selected"' : ''; ?>>HotelClub.cn</option>
                         <option value="http://www.hotelclub.com.tw/"<?php echo ($option == 'http://www.hotelclub.com.tw/') ? ' selected="selected"' : ''; ?>>HotelClub.com.tw</option>
+                        <option value="http://www.hotelclub.com.au/"<?php echo ($option == 'http://www.hotelclub.com.au/') ? ' selected="selected"' : ''; ?>>HotelClub.com.au</option>
+                        <option value="http://www.hotelclub.co.uk/"<?php echo ($option == 'http://www.hotelclub.co.uk/') ? ' selected="selected"' : ''; ?>>HotelClub.co.uk</option>
                     </select>
                     <span class="description"><?php _e('Choose your default HotelClub site address', 'hotelclub'); ?></span>
                 </td>

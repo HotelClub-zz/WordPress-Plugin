@@ -1,6 +1,6 @@
 === HotelClub ===
 Contributors: robertlove
-Donate link: http://www.hotelclub.com/
+Donate link: http://www.hotelclub.com/WordPress
 Tags: hotel, club, hotelclub, hotels, reservation, reservations, accommodation, accommodations, rooms, lodging, service, rates, hotels, discounts, cheap, online, travel, booking, information, resorts
 Requires at least: 3.0.2
 Tested up to: 3.0.4
